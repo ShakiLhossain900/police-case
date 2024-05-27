@@ -20,3 +20,4 @@ yarn add @thirdweb-dev/react @thirdweb-dev/sdk ethers react-hot-toast
 
 ⭐Give this repo a star if you found some value in it. 
 Thanks!
+# police-case
